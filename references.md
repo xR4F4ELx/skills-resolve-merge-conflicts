@@ -1,1 +1,1 @@
-Conflicts with references.md in main branch.
+resolved merge conflict in references.md
